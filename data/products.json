@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "images": [
+        "./src/components/images/serverbox1.jpg",
+        "/images/EnclosureA.svg",
+        "/public/images/EnclosureB.svg",
+        "/public/images/EnclosureC.svg",
+        "/public/images/oldman.png",
+        "./src/images/serverbox1.jpg"
+      ],
+      "name": "Ohmm Server Box",
+      "brief": "Rugged ASIC enclosure for home or industrial shop",
+      "description": "The Ohmm™ Black Box is a rugged enclosure design for bitcoin mining ASIC hardware that requires no additional cooling external to the ASIC computers themselves, all you need is to run the power and Ethernet to the box. We designed the air flow path to keep the ASIC elevated above the intake/discharge which reduces the risk of environmental ingress into the ASIC. The separating wall includes a manually adjustable vent register which allows the user to recirculate heat from the high pressure discharge to preheat the cold intake air in winter climates. The enclosure is built from urethane foam sandwich panel with aluminum extrusion framing which allows excellent sound attenuation, weather proofing and fire proofing. The Black Box allows you to mine safely indoors or outdoors at home or at your shop."
+    },
+    {
+      "id": "2",
+      "images": [
+        "/images/ImmersionBoxMain.png",
+        "/images//ImmersionA.svg",
+        "/public/images/ImmersionB.svg",
+        "/public/images/ImmersionC.svg"
+      ],
+      "name": "Immersion Box",
+      "brief": "Universal immersion box for ASIC miners",
+      "description": "A generic immersion box for ASIC miners"
+    }
+  ]
+}
