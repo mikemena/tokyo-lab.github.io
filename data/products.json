@@ -22,7 +22,7 @@
         "/public/images/ImmersionB.svg",
         "/public/images/ImmersionC.svg"
       ],
-      "name": "Immersion Box",
+      "name": "Immersion Mining Enclosure",
       "brief": "Universal immersion box for ASIC miners",
       "description": "A generic immersion box for ASIC miners"
     }
